@@ -1,0 +1,5 @@
+{"date":"2026-11-24T08:15:00Z","grind":18,"weight":18.0,"out":36.5,"time":28,"pressure":9.0,"bean_id":12345}
+{"date":"2026-11-24T13:30:00Z","grind":17,"weight":18.0,"out":38.0,"time":32,"pressure":9.2,"bean_id":12345}
+{"date":"2026-11-25T08:05:00Z","grind":17,"weight":18.0,"out":40.0,"time":35,"pressure":9.0,"bean_id":12345}
+{"date":"2026-11-25T14:10:00Z","grind":16,"weight":18.5,"out":37.0,"time":38,"pressure":9.5,"bean_id":67890}
+{"date":"2026-11-26T08:45:00Z","grind":17,"weight":18.5,"out":39.5,"time":31,"pressure":8.8,"bean_id":67890}
